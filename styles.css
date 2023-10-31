@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+* body{
+    background-color: rgb(204, 204,204);
+}
+h1,h2{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    
+}
+li a{
+    text-decoration-line:none ;
+    color: black;
+}
+.songs1{
+    border: solid 1px black;
+    border-radius: 5px;
+    background-color: white;
+}
+.play{
+    
+    border: solid 1px black;
+    background-color: rgb(255,255,255);
+    border-radius: 5px;
+    padding: auto;
+   
+	height:100%;
+   
+    
+    
+}
+.player_one{
+	width:100%;
+   padding: auto;
+	width: 75vh;
+	
+   
+
+}
+.player_two{
+	padding: auto;
+	width: 25vh;
+    
+}
